@@ -1,0 +1,4 @@
+Name, Type-Creature, Subtype, Weapon, Health
+Name, Type-Action, Subtype-Attack, Weapon, Effect
+Human Gaurd, Creature, Human, Basic Sword, 1
+Swipe, Action, Attack, Sword, Deal W Damage

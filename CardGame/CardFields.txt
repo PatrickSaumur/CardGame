@@ -1,0 +1,24 @@
+All cards have
+Name
+Play Cost
+Usable by
+
+
+Creatures have
+Life
+Creature Type
+Equipment Slots
+Equipable Types
+Natural Equipment
+
+Equipment 
+Type
+Slots
+Effect
+
+Actions
+Equip Type Req
+Creature Type Req
+Effect
+
+
