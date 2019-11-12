@@ -16,4 +16,8 @@ public abstract class Card {
 	}
 
 	public abstract void addDeck(ArrayList<Card> deck);
+	public boolean CanITargetYou(Card actor) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }
