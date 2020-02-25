@@ -2,6 +2,11 @@ package application;
 
 import java.sql.ResultSet;
 
+import effects.AttackEffect;
+import effects.Effect;
+import effects.EffectParser;
+import effects.HealEffect;
+
 public class CardBuilder {
 
 	public Card buildCreatureCardFromCardSet(ResultSet cardInfoByCardName) {

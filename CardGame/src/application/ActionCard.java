@@ -2,6 +2,8 @@ package application;
 
 import java.util.ArrayList;
 
+import effects.Effect;
+
 public class ActionCard extends Card {
 
 	private ArrayList<Effect> effects= new ArrayList<Effect>();
